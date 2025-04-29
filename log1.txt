@@ -1,0 +1,12 @@
+فایل log1.txt برای 
+`text
+[مرحله 1] ایجاد برنچ crossover-function و پیاده‌سازی تابع crossover
+commit message: "Add crossover function"
+
+[مرحله 2] ایجاد برنچ mutation-function و پیاده‌سازی تابع mutation
+commit message: "Add mutation function"
+
+[مرحله 3] تست توابع و ترکیب آن‌ها در یک فایل پایتون
+commit message: "Test crossover and mutation functions"
+
+[مرحله 4] نوشتن فایل README و ثبت گام‌های انجام‌شده
