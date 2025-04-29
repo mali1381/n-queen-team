@@ -1,0 +1,15 @@
+
+[مرحله 1] ساخت ریپوی شخصی با نام eight-queens-genetic
+
+[مرحله 2] ایجاد برنچ fitness-function و نوشتن تابع fitness
+commit message: "Add fitness function"
+
+[مرحله 3] ایجاد برنچ selection-function و نوشتن تابع selection
+commit message: "Add selection function"
+
+[مرحله 4] merge کردن دو برنچ به main
+commit message: "Merge fitness and selection into main"
+
+[مرحله 5] آزمایش git reset و git revert برای آشنایی با بازگرداندن تغییرات
+
+[مرحله 6] نوشتن فایل README و log و تست نهایی کد
