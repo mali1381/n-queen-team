@@ -15,9 +15,7 @@ def fitness(board):
     return 28 - conflicts  # امتیاز نهایی: حداکثر 28 بدون برخورد
 
 def selection(population):
-    """
-    انتخاب دو فرد برتر بر اساس بیشترین fitness
-    """
+ 
     sorted_population = sorted(population, key=lambda x: fitness(x), reverse=True)
     return sorted_population[0], sorted_population[1]
 
