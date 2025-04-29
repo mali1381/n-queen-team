@@ -1,10 +1,7 @@
 import random
 
 def fitness(board):
-    """
-    محاسبه تعداد برخوردهای بین وزیرها در یک آرایش خاص.
-    هرچه برخورد کمتر، امتیاز بیشتر.
-    """
+ 
     conflicts = 0
     for i in range(len(board)):
         for j in range(i + 1, len(board)):
